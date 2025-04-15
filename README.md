@@ -46,7 +46,9 @@ We created a dynamic, interactive visualization using Next.js, TypeScript, Tailw
 ### Before
 
 <img width="797" alt="Screenshot 2025-04-15 at 18 40 12" src="https://github.com/user-attachments/assets/23ac03b5-3d09-4b87-bc87-ca6391fa22b6" />
+
 ### After
+
 <img width="913" alt="Screenshot 2025-04-15 at 18 40 04" src="https://github.com/user-attachments/assets/d3f0ab3a-650c-421e-b155-29f72f31f1ec" />
 
 
@@ -61,4 +63,4 @@ The new interactive experience has significantly improved:
 
 Our team specializes in turning complex information into engaging interactive experiences that capture attention and drive results. Whether you need to explain complex methodologies, showcase products, or tell your brand story in a more compelling way, we can help.
 
-[Work With Us →](https://mutualprosperity.com/contact)
+[Work With Us →](https://app.usemotion.com/meet/varritech/chat)
